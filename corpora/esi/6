@@ -1,0 +1,4 @@
+<html>
+Before include
+<!--esi <esi:include src="http://bozz/body"/> -->
+After include

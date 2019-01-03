@@ -1,0 +1,5 @@
+<esi:include src="&amp;"/>
+<esi:include src="&lt;"/>
+<esi:include src="&gt;"/>
+<esi:include src="&apos;"/>
+<esi:include src="&quot;"/>
